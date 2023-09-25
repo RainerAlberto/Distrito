@@ -1,2 +1,2 @@
 # Distrito
-Archivo .geojson con las secciones que conforman el Distrito Local 01
+Archivo .geojson con las secciones que conforman el Distrito Local 01.
